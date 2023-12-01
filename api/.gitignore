@@ -1,6 +1,7 @@
 # Ignore specific files
 .env
 package-lock.json
+/node_modules
 
 dist
 # Ignore directories
